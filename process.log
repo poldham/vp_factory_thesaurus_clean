@@ -1,0 +1,313 @@
+Parsing factory_working_example_group_normalized_30122025.the...
+Auditing 18806 groups using model: llama3.3:latest...
+  0%|          | 0/18806 [00:00<?, ?it/s]2026-01-04 09:02:23,804 - INFO - Auditing group: 02 bet mem vav
+2026-01-04 09:03:54,843 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 1/18806 [01:31<475:34:29, 91.04s/it]2026-01-04 09:03:54,848 - INFO - Auditing group: 1
+2026-01-04 09:04:06,917 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 2/18806 [01:43<232:54:02, 44.59s/it]2026-01-04 09:04:06,918 - INFO - Auditing group: 1 and 1 internet
+2026-01-04 09:04:16,113 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 3/18806 [01:52<148:28:47, 28.43s/it]2026-01-04 09:04:16,114 - INFO - Auditing group: 153 korea
+2026-01-04 09:04:24,528 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 4/18806 [02:00<107:12:25, 20.53s/it]2026-01-04 09:04:24,529 - INFO - Auditing group: 1globe health institute
+2026-01-04 09:04:33,980 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 5/18806 [02:10<86:20:41, 16.53s/it] 2026-01-04 09:04:33,981 - INFO - Auditing group: 1p industria chimica per larredamento
+2026-01-04 09:04:43,499 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 6/18806 [02:19<73:53:05, 14.15s/it]2026-01-04 09:04:43,499 - INFO - Auditing group: 1st biotherapeutics
+2026-01-04 09:04:52,556 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 7/18806 [02:28<65:11:21, 12.48s/it]2026-01-04 09:04:52,556 - INFO - Auditing group: 1universite claude bernard de lyon 1
+2026-01-04 09:05:02,384 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 8/18806 [02:38<60:46:20, 11.64s/it]2026-01-04 09:05:02,385 - INFO - Auditing group: 2 corporation
+2026-01-04 09:05:12,972 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 9/18806 [02:49<59:03:16, 11.31s/it]2026-01-04 09:05:12,973 - INFO - Auditing group: 21st century medicine
+2026-01-04 09:05:22,745 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 10/18806 [02:58<56:34:29, 10.84s/it]2026-01-04 09:05:22,747 - INFO - Auditing group: 21st century technologies
+2026-01-04 09:05:30,546 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 11/18806 [03:06<51:43:15,  9.91s/it]2026-01-04 09:05:30,547 - INFO - Auditing group: 22
+2026-01-04 09:05:40,809 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 12/18806 [03:17<52:17:11, 10.02s/it]2026-01-04 09:05:40,812 - INFO - Auditing group: 22nd century
+2026-01-04 09:05:49,754 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 13/18806 [03:25<50:35:19,  9.69s/it]2026-01-04 09:05:49,755 - INFO - Auditing group: 23 sz allami epitoipari vallalat
+2026-01-04 09:05:59,515 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 14/18806 [03:35<50:41:47,  9.71s/it]2026-01-04 09:05:59,516 - INFO - Auditing group: 270 vision
+2026-01-04 09:06:07,541 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 15/18806 [03:43<48:02:30,  9.20s/it]2026-01-04 09:06:07,543 - INFO - Auditing group: 2seventy bio
+2026-01-04 09:06:16,783 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 16/18806 [03:52<48:05:56,  9.22s/it]2026-01-04 09:06:16,784 - INFO - Auditing group: 3 biosciences
+2026-01-04 09:06:26,461 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 17/18806 [04:02<48:49:19,  9.35s/it]2026-01-04 09:06:26,462 - INFO - Auditing group: 3 communications corporation
+2026-01-04 09:06:34,487 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 18/18806 [04:10<46:44:11,  8.96s/it]2026-01-04 09:06:34,488 - INFO - Auditing group: 3 dimensional pharmaceuticals
+2026-01-04 09:06:44,230 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 19/18806 [04:20<47:58:06,  9.19s/it]2026-01-04 09:06:44,231 - INFO - Auditing group: 3a abwasser abfall anlagentechnik
+2026-01-04 09:06:54,026 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 20/18806 [04:30<48:54:43,  9.37s/it]2026-01-04 09:06:54,028 - INFO - Auditing group: 3b pharmaceuticals
+2026-01-04 09:07:02,286 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 21/18806 [04:38<47:09:53,  9.04s/it]2026-01-04 09:07:02,286 - INFO - Auditing group: 3d global biotech
+2026-01-04 09:07:19,196 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 22/18806 [04:55<59:29:21, 11.40s/it]2026-01-04 09:07:19,197 - INFO - Auditing group: 3d medicines beijing
+2026-01-04 09:07:29,080 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 23/18806 [05:05<57:06:46, 10.95s/it]2026-01-04 09:07:29,082 - INFO - Auditing group: 3dbatteries
+2026-01-04 09:07:37,264 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 24/18806 [05:13<52:47:06, 10.12s/it]2026-01-04 09:07:37,267 - INFO - Auditing group: 3i research exploitation
+2026-01-04 09:07:46,754 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 25/18806 [05:22<51:47:56,  9.93s/it]2026-01-04 09:07:46,755 - INFO - Auditing group: 3m
+2026-01-04 09:07:54,800 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 26/18806 [05:30<48:50:54,  9.36s/it]2026-01-04 09:07:54,801 - INFO - Auditing group: 3m company minnesota mining and manufacturing
+2026-01-04 09:08:04,649 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 27/18806 [05:40<49:36:19,  9.51s/it]2026-01-04 09:08:04,650 - INFO - Auditing group: 3m innovative
+2026-01-04 09:08:14,323 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 28/18806 [05:50<49:51:34,  9.56s/it]2026-01-04 09:08:14,324 - INFO - Auditing group: 3m medical devices and materials manufacturing shanghai
+2026-01-04 09:08:42,580 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 29/18806 [06:18<79:07:01, 15.17s/it]2026-01-04 09:08:42,582 - INFO - Auditing group: 3v sigma
+2026-01-04 09:08:50,476 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 30/18806 [06:26<67:44:07, 12.99s/it]2026-01-04 09:08:50,479 - INFO - Auditing group: 4 aza bioscience
+2026-01-04 09:08:59,817 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 31/18806 [06:36<62:01:23, 11.89s/it]2026-01-04 09:08:59,817 - INFO - Auditing group: 4 good health
+2026-01-04 09:09:07,543 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 32/18806 [06:43<55:30:11, 10.64s/it]2026-01-04 09:09:07,545 - INFO - Auditing group: 4 web
+2026-01-04 09:09:15,132 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 33/18806 [06:51<50:43:17,  9.73s/it]2026-01-04 09:09:15,133 - INFO - Auditing group: 4c biotech seneffe
+2026-01-04 09:09:23,959 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 34/18806 [07:00<49:18:41,  9.46s/it]2026-01-04 09:09:23,960 - INFO - Auditing group: 4d
+2026-01-04 09:09:31,534 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 35/18806 [07:07<46:22:34,  8.89s/it]2026-01-04 09:09:31,542 - INFO - Auditing group: 4d lifetec
+2026-01-04 09:09:39,474 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 36/18806 [07:15<44:52:11,  8.61s/it]2026-01-04 09:09:39,475 - INFO - Auditing group: 4d pharma research
+2026-01-04 09:09:48,928 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 37/18806 [07:25<46:12:02,  8.86s/it]2026-01-04 09:09:48,933 - INFO - Auditing group: 4life research lc
+2026-01-04 09:09:57,014 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 38/18806 [07:33<44:58:41,  8.63s/it]2026-01-04 09:09:57,015 - INFO - Auditing group: 4th phase
+2026-01-04 09:10:05,910 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 39/18806 [07:42<45:23:44,  8.71s/it]2026-01-04 09:10:05,910 - INFO - Auditing group: 5 viiv healthcare uk no 5 limited
+2026-01-04 09:10:15,911 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 40/18806 [07:52<47:24:54,  9.10s/it]2026-01-04 09:10:15,911 - INFO - Auditing group: 60 degrees pharmaceuticals
+2026-01-04 09:10:24,125 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 41/18806 [08:00<46:02:09,  8.83s/it]2026-01-04 09:10:24,127 - INFO - Auditing group: 7
+2026-01-04 09:10:32,565 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 42/18806 [08:08<45:25:15,  8.71s/it]2026-01-04 09:10:32,568 - INFO - Auditing group: 7 hills interests
+2026-01-04 09:10:40,843 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 43/18806 [08:17<44:44:03,  8.58s/it]2026-01-04 09:10:40,844 - INFO - Auditing group: 73100 setenta tres mil cem
+2026-01-04 09:10:50,371 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 44/18806 [08:26<46:12:38,  8.87s/it]2026-01-04 09:10:50,373 - INFO - Auditing group: 7tm pharma
+2026-01-04 09:10:58,120 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 45/18806 [08:34<44:27:36,  8.53s/it]2026-01-04 09:10:58,122 - INFO - Auditing group: 8 rivers capital
+2026-01-04 09:11:05,618 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 46/18806 [08:41<42:50:29,  8.22s/it]2026-01-04 09:11:05,619 - INFO - Auditing group: aabo akademi
+2026-01-04 09:11:14,505 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 47/18806 [08:50<43:52:59,  8.42s/it]2026-01-04 09:11:14,508 - INFO - Auditing group: aac technologies
+2026-01-04 09:11:22,619 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 48/18806 [08:58<43:23:52,  8.33s/it]2026-01-04 09:11:22,621 - INFO - Auditing group: aak
+2026-01-04 09:11:30,357 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 49/18806 [09:06<42:28:17,  8.15s/it]2026-01-04 09:11:30,358 - INFO - Auditing group: aalborg portland cement fabrik
+2026-01-04 09:11:40,341 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 50/18806 [09:16<45:19:57,  8.70s/it]2026-01-04 09:11:40,342 - INFO - Auditing group: aalborg university
+2026-01-04 09:11:48,359 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 51/18806 [09:24<44:15:46,  8.50s/it]2026-01-04 09:11:48,360 - INFO - Auditing group: aalto university
+2026-01-04 09:11:56,543 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 52/18806 [09:32<43:46:20,  8.40s/it]2026-01-04 09:11:56,544 - INFO - Auditing group: aalto university foundation sr
+2026-01-04 09:12:05,856 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 53/18806 [09:42<45:11:37,  8.68s/it]2026-01-04 09:12:05,857 - INFO - Auditing group: aarhus oliefabrik
+2026-01-04 09:12:14,826 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 54/18806 [09:51<45:39:05,  8.76s/it]2026-01-04 09:12:14,828 - INFO - Auditing group: aaron diamond aids research center
+2026-01-04 09:12:23,750 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 55/18806 [09:59<45:53:54,  8.81s/it]2026-01-04 09:12:23,751 - INFO - Auditing group: aaronson bros
+2026-01-04 09:12:31,923 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 56/18806 [10:08<44:53:46,  8.62s/it]2026-01-04 09:12:31,924 - INFO - Auditing group: aas
+2026-01-04 09:12:40,647 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 57/18806 [10:16<45:03:27,  8.65s/it]2026-01-04 09:12:40,649 - INFO - Auditing group: ab aakerlund and rausing
+2026-01-04 09:12:50,558 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 58/18806 [10:26<47:01:17,  9.03s/it]2026-01-04 09:12:50,558 - INFO - Auditing group: ab agri
+2026-01-04 09:13:07,513 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 59/18806 [10:43<59:24:04, 11.41s/it]2026-01-04 09:13:07,513 - INFO - Auditing group: ab edler and co faergindustri
+2026-01-04 09:13:16,723 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 60/18806 [10:52<55:58:03, 10.75s/it]2026-01-04 09:13:16,724 - INFO - Auditing group: ab enzymes
+2026-01-04 09:13:32,586 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 61/18806 [11:08<63:57:26, 12.28s/it]2026-01-04 09:13:32,590 - INFO - Auditing group: ab garphytte bruk
+2026-01-04 09:13:40,575 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 62/18806 [11:16<57:14:37, 10.99s/it]2026-01-04 09:13:40,576 - INFO - Auditing group: ab grindstedvaerket arhus daenemark
+2026-01-04 09:13:50,184 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 63/18806 [11:26<55:04:38, 10.58s/it]2026-01-04 09:13:50,186 - INFO - Auditing group: ab grythyttans stalmobler
+2026-01-04 09:14:04,193 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 64/18806 [11:40<60:25:50, 11.61s/it]2026-01-04 09:14:04,194 - INFO - Auditing group: ab gustavsbergs fab
+2026-01-04 09:14:13,234 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 65/18806 [11:49<56:25:10, 10.84s/it]2026-01-04 09:14:13,235 - INFO - Auditing group: ab helios kemisk tekniska fabriker
+2026-01-04 09:14:24,821 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 66/18806 [12:01<57:35:13, 11.06s/it]2026-01-04 09:14:24,823 - INFO - Auditing group: ab husqvarna borstfabrik
+2026-01-04 09:14:34,945 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 67/18806 [12:11<56:07:01, 10.78s/it]2026-01-04 09:14:34,946 - INFO - Auditing group: ab hydraul verken
+2026-01-04 09:14:46,422 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 68/18806 [12:22<57:12:22, 10.99s/it]2026-01-04 09:14:46,426 - INFO - Auditing group: ab kabi
+2026-01-04 09:14:59,501 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 69/18806 [12:35<60:27:34, 11.62s/it]2026-01-04 09:14:59,502 - INFO - Auditing group: ab karlshamns oljefabriker
+2026-01-04 09:15:09,833 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 70/18806 [12:46<58:27:05, 11.23s/it]2026-01-04 09:15:09,835 - INFO - Auditing group: ab ludvig svensson
+2026-01-04 09:15:21,841 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 71/18806 [12:58<59:39:40, 11.46s/it]2026-01-04 09:15:21,842 - INFO - Auditing group: ab lyckeaborgs bruk
+2026-01-04 09:15:30,872 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 72/18806 [13:07<55:51:33, 10.73s/it]2026-01-04 09:15:30,873 - INFO - Auditing group: ab medica holding
+2026-01-04 09:15:41,307 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 73/18806 [13:17<55:23:22, 10.64s/it]2026-01-04 09:15:41,308 - INFO - Auditing group: ab nanol technologies
+2026-01-04 09:15:49,026 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 74/18806 [13:25<50:49:10,  9.77s/it]2026-01-04 09:15:49,027 - INFO - Auditing group: ab pripps bryggerier
+2026-01-04 09:15:58,173 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 75/18806 [13:34<49:50:57,  9.58s/it]2026-01-04 09:15:58,174 - INFO - Auditing group: ab sangtec medical
+2026-01-04 09:16:07,067 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 76/18806 [13:43<48:46:35,  9.38s/it]2026-01-04 09:16:07,076 - INFO - Auditing group: ab skaanska cementgjuteriet
+2026-01-04 09:16:16,085 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 77/18806 [13:52<48:12:50,  9.27s/it]2026-01-04 09:16:16,085 - INFO - Auditing group: ab stille werner
+2026-01-04 09:16:23,744 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 78/18806 [13:59<45:42:15,  8.79s/it]2026-01-04 09:16:23,749 - INFO - Auditing group: ab syntes te nol zweden
+2026-01-04 09:16:36,802 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 79/18806 [14:12<52:22:01, 10.07s/it]2026-01-04 09:16:36,803 - INFO - Auditing group: ab tall holdings
+2026-01-04 09:16:44,791 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 80/18806 [14:20<49:07:23,  9.44s/it]2026-01-04 09:16:44,793 - INFO - Auditing group: ab volvo penta
+2026-01-04 09:16:53,940 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 81/18806 [14:30<48:39:35,  9.36s/it]2026-01-04 09:16:53,941 - INFO - Auditing group: ab wilh becker
+2026-01-04 09:17:03,255 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 82/18806 [14:39<48:35:44,  9.34s/it]2026-01-04 09:17:03,257 - INFO - Auditing group: ab7 innovation
+2026-01-04 09:17:10,806 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 83/18806 [14:47<45:47:42,  8.81s/it]2026-01-04 09:17:10,807 - INFO - Auditing group: abag
+2026-01-04 09:17:19,907 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 84/18806 [14:56<46:15:13,  8.89s/it]2026-01-04 09:17:19,908 - INFO - Auditing group: abb gomtec gmbh
+2026-01-04 09:17:28,489 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 85/18806 [15:04<45:45:58,  8.80s/it]2026-01-04 09:17:28,491 - INFO - Auditing group: abb lummus global
+2026-01-04 09:17:42,643 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 86/18806 [15:18<54:06:47, 10.41s/it]2026-01-04 09:17:42,644 - INFO - Auditing group: abb research
+2026-01-04 09:17:50,285 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 87/18806 [15:26<49:47:53,  9.58s/it]2026-01-04 09:17:50,286 - INFO - Auditing group: abbott biologicals
+2026-01-04 09:17:57,711 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 88/18806 [15:33<46:26:26,  8.93s/it]2026-01-04 09:17:57,712 - INFO - Auditing group: abbott diabetes care
+2026-01-04 09:18:10,956 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 89/18806 [15:47<53:09:59, 10.23s/it]2026-01-04 09:18:10,958 - INFO - Auditing group: abbott healthcare products
+2026-01-04 09:18:18,593 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 90/18806 [15:54<49:07:25,  9.45s/it]2026-01-04 09:18:18,594 - INFO - Auditing group: abbott lab bermuda
+2026-01-04 09:18:27,703 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 91/18806 [16:03<48:35:38,  9.35s/it]2026-01-04 09:18:27,705 - INFO - Auditing group: abbott laboratories ireland
+2026-01-04 09:18:34,964 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 92/18806 [16:11<45:20:12,  8.72s/it]2026-01-04 09:18:34,965 - INFO - Auditing group: abbott laboratories vascular enterprises
+2026-01-04 09:18:44,734 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 93/18806 [16:20<46:58:06,  9.04s/it]2026-01-04 09:18:44,734 - INFO - Auditing group: abbvie
+2026-01-04 09:18:52,315 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  0%|          | 94/18806 [16:28<44:41:51,  8.60s/it]2026-01-04 09:18:52,316 - INFO - Auditing group: abbvie pharmaceutical trading shanghai
+2026-01-04 09:19:01,413 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 95/18806 [16:37<45:28:23,  8.75s/it]2026-01-04 09:19:01,414 - INFO - Auditing group: abbyy development
+2026-01-04 09:19:09,765 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 96/18806 [16:45<44:51:08,  8.63s/it]2026-01-04 09:19:09,766 - INFO - Auditing group: abcam
+2026-01-04 09:19:17,322 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 97/18806 [16:53<43:10:34,  8.31s/it]2026-01-04 09:19:17,323 - INFO - Auditing group: abcellera biologics
+2026-01-04 09:19:26,560 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 98/18806 [17:02<44:37:29,  8.59s/it]2026-01-04 09:19:26,563 - INFO - Auditing group: abclon
+2026-01-04 09:19:34,008 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 99/18806 [17:10<42:50:45,  8.25s/it]2026-01-04 09:19:34,009 - INFO - Auditing group: abec
+2026-01-04 09:19:41,704 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 100/18806 [17:17<41:59:10,  8.08s/it]2026-01-04 09:19:41,704 - INFO - Auditing group: abendroth
+2026-01-04 09:19:49,050 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 101/18806 [17:25<40:50:23,  7.86s/it]2026-01-04 09:19:49,051 - INFO - Auditing group: abengoa solar new technologies
+2026-01-04 09:19:57,678 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 102/18806 [17:33<42:02:10,  8.09s/it]2026-01-04 09:19:57,680 - INFO - Auditing group: abentin alejandro dario
+2026-01-04 09:20:06,365 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 103/18806 [17:42<42:57:46,  8.27s/it]2026-01-04 09:20:06,367 - INFO - Auditing group: aberdeen orthopaedics developments
+2026-01-04 09:20:15,321 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 104/18806 [17:51<44:01:43,  8.48s/it]2026-01-04 09:20:15,322 - INFO - Auditing group: aberdeen university
+2026-01-04 09:20:33,135 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 105/18806 [18:09<58:34:49, 11.28s/it]2026-01-04 09:20:33,136 - INFO - Auditing group: abg allgemeine baumaschinen gesellschaft
+2026-01-04 09:20:42,212 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 106/18806 [18:18<55:09:00, 10.62s/it]2026-01-04 09:20:42,215 - INFO - Auditing group: abgenic
+2026-01-04 09:20:49,649 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 107/18806 [18:25<50:11:27,  9.66s/it]2026-01-04 09:20:49,650 - INFO - Auditing group: abic ltd natanya
+2026-01-04 09:20:56,911 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 108/18806 [18:33<46:26:48,  8.94s/it]2026-01-04 09:20:56,912 - INFO - Auditing group: abiochem biotechnology
+2026-01-04 09:21:06,030 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 109/18806 [18:42<46:43:09,  9.00s/it]2026-01-04 09:21:06,031 - INFO - Auditing group: abk biomedical
+2026-01-04 09:21:13,381 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 110/18806 [18:49<44:09:42,  8.50s/it]2026-01-04 09:21:13,387 - INFO - Auditing group: able corporation
+2026-01-04 09:21:24,438 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 111/18806 [19:00<48:07:47,  9.27s/it]2026-01-04 09:21:24,438 - INFO - Auditing group: ablestik laboratories
+2026-01-04 09:21:31,720 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 112/18806 [19:07<45:02:05,  8.67s/it]2026-01-04 09:21:31,722 - INFO - Auditing group: ablynx
+2026-01-04 09:21:38,955 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 113/18806 [19:15<42:47:32,  8.24s/it]2026-01-04 09:21:38,956 - INFO - Auditing group: abm technologies
+2026-01-04 09:21:46,555 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 114/18806 [19:22<41:47:29,  8.05s/it]2026-01-04 09:21:46,556 - INFO - Auditing group: abo akademi
+2026-01-04 09:21:54,174 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 115/18806 [19:30<41:07:12,  7.92s/it]2026-01-04 09:21:54,176 - INFO - Auditing group: aboca di mercati valentino and societa semplice
+2026-01-04 09:22:03,355 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 116/18806 [19:39<43:04:50,  8.30s/it]2026-01-04 09:22:03,356 - INFO - Auditing group: aboca societa agricola
+2026-01-04 09:22:16,680 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 117/18806 [19:52<50:54:30,  9.81s/it]2026-01-04 09:22:16,681 - INFO - Auditing group: abps venture one
+2026-01-04 09:22:24,734 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 118/18806 [20:00<48:10:33,  9.28s/it]2026-01-04 09:22:24,735 - INFO - Auditing group: abra pharmaceutical
+2026-01-04 09:22:32,084 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 119/18806 [20:08<45:10:21,  8.70s/it]2026-01-04 09:22:32,089 - INFO - Auditing group: abracadabra implants
+2026-01-04 09:22:39,795 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 120/18806 [20:15<43:37:20,  8.40s/it]2026-01-04 09:22:39,797 - INFO - Auditing group: abrams michael jeffrey
+2026-01-04 09:22:47,309 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 121/18806 [20:23<42:13:57,  8.14s/it]2026-01-04 09:22:47,311 - INFO - Auditing group: abrasive cutting technology
+2026-01-04 09:22:54,711 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 122/18806 [20:30<41:05:10,  7.92s/it]2026-01-04 09:22:54,712 - INFO - Auditing group: absolute closure innovations
+2026-01-04 09:23:03,937 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 123/18806 [20:40<43:07:25,  8.31s/it]2026-01-04 09:23:03,939 - INFO - Auditing group: absorption systems group
+2026-01-04 09:23:14,154 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 124/18806 [20:50<46:05:24,  8.88s/it]2026-01-04 09:23:14,155 - INFO - Auditing group: abt and company wilhelm
+2026-01-04 09:23:23,007 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 125/18806 [20:59<46:02:38,  8.87s/it]2026-01-04 09:23:23,009 - INFO - Auditing group: abtlas
+2026-01-04 09:23:30,203 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 126/18806 [21:06<43:25:50,  8.37s/it]2026-01-04 09:23:30,204 - INFO - Auditing group: abu ab svaengsta schweden
+2026-01-04 09:23:38,878 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 127/18806 [21:15<43:54:11,  8.46s/it]2026-01-04 09:23:38,879 - INFO - Auditing group: abu dabi polimers ko ltd boroudzh
+2026-01-04 09:23:47,936 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 128/18806 [21:24<44:49:44,  8.64s/it]2026-01-04 09:23:47,937 - INFO - Auditing group: abu dhabi polymers company ltd borouge
+2026-01-04 09:23:59,552 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 129/18806 [21:35<49:27:33,  9.53s/it]2026-01-04 09:23:59,554 - INFO - Auditing group: abuse deterrent pharmaceutical
+2026-01-04 09:24:07,681 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 130/18806 [21:43<47:16:15,  9.11s/it]2026-01-04 09:24:07,683 - INFO - Auditing group: ac bioscience
+2026-01-04 09:24:17,718 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 131/18806 [21:53<48:42:35,  9.39s/it]2026-01-04 09:24:17,721 - INFO - Auditing group: acad sinica
+2026-01-04 09:24:25,141 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 132/18806 [22:01<45:38:34,  8.80s/it]2026-01-04 09:24:25,142 - INFO - Auditing group: academisch ziekenhuis leiden leiden uni medical ctr
+2026-01-04 09:24:34,414 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 133/18806 [22:10<46:22:44,  8.94s/it]2026-01-04 09:24:34,416 - INFO - Auditing group: academisch ziekenhuis leiden lumc
+2026-01-04 09:24:43,360 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 134/18806 [22:19<46:22:57,  8.94s/it]2026-01-04 09:24:43,361 - INFO - Auditing group: academy of national food and strategic reserves administration
+2026-01-04 09:24:55,786 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 135/18806 [22:31<51:47:59,  9.99s/it]2026-01-04 09:24:55,787 - INFO - Auditing group: acambis research ltd cambridge
+2026-01-04 09:25:05,088 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 136/18806 [22:41<50:43:47,  9.78s/it]2026-01-04 09:25:05,089 - INFO - Auditing group: acatechol
+2026-01-04 09:25:12,904 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 137/18806 [22:49<47:40:13,  9.19s/it]2026-01-04 09:25:12,906 - INFO - Auditing group: accanis biotech and
+2026-01-04 09:25:21,965 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 138/18806 [22:58<47:27:46,  9.15s/it]2026-01-04 09:25:21,966 - INFO - Auditing group: accelerate diagnostics
+2026-01-04 09:25:29,740 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 139/18806 [23:05<45:18:58,  8.74s/it]2026-01-04 09:25:29,741 - INFO - Auditing group: accelerated technologies corporation
+2026-01-04 09:25:44,222 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 140/18806 [23:20<54:14:50, 10.46s/it]2026-01-04 09:25:44,223 - INFO - Auditing group: accelerators
+2026-01-04 09:25:53,128 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 141/18806 [23:29<51:49:22, 10.00s/it]2026-01-04 09:25:53,129 - INFO - Auditing group: accelergy shanghai and center
+2026-01-04 09:26:04,461 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 142/18806 [23:40<53:54:04, 10.40s/it]2026-01-04 09:26:04,462 - INFO - Auditing group: acceleron pharma
+2026-01-04 09:26:12,443 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 143/18806 [23:48<50:08:32,  9.67s/it]2026-01-04 09:26:12,444 - INFO - Auditing group: accellta
+2026-01-04 09:26:19,696 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 144/18806 [23:55<46:22:34,  8.95s/it]2026-01-04 09:26:19,696 - INFO - Auditing group: accenture properties 2
+2026-01-04 09:26:27,271 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 145/18806 [24:03<44:14:33,  8.54s/it]2026-01-04 09:26:27,272 - INFO - Auditing group: access business group international
+2026-01-04 09:26:38,800 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 146/18806 [24:14<48:53:44,  9.43s/it]2026-01-04 09:26:38,801 - INFO - Auditing group: access pharmaceuticals
+2026-01-04 09:26:46,206 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 147/18806 [24:22<45:44:25,  8.83s/it]2026-01-04 09:26:46,207 - INFO - Auditing group: access vascular
+2026-01-04 09:26:53,825 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 148/18806 [24:30<43:51:46,  8.46s/it]2026-01-04 09:26:53,826 - INFO - Auditing group: acciai speciali terni
+2026-01-04 09:27:03,550 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 149/18806 [24:39<45:49:23,  8.84s/it]2026-01-04 09:27:03,551 - INFO - Auditing group: accumulatorenfabrik sonnenschein
+2026-01-04 09:27:12,830 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 150/18806 [24:49<46:30:07,  8.97s/it]2026-01-04 09:27:12,832 - INFO - Auditing group: accunose
+2026-01-04 09:27:20,264 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 151/18806 [24:56<44:06:19,  8.51s/it]2026-01-04 09:27:20,265 - INFO - Auditing group: accurate medical therapeutics
+2026-01-04 09:27:29,089 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 152/18806 [25:05<44:35:30,  8.61s/it]2026-01-04 09:27:29,091 - INFO - Auditing group: accurate polymers
+2026-01-04 09:27:37,072 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 153/18806 [25:13<43:37:09,  8.42s/it]2026-01-04 09:27:37,072 - INFO - Auditing group: accutru international corporation
+2026-01-04 09:27:46,498 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 154/18806 [25:22<45:10:58,  8.72s/it]2026-01-04 09:27:46,498 - INFO - Auditing group: ace
+2026-01-04 09:27:54,567 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+  1%|          | 155/18806 [25:30<44:10:10,  8.53s/it]2026-01-04 09:27:54,568 - INFO - Auditing group: acea pharmaceuticals
