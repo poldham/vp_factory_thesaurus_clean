@@ -10,7 +10,7 @@ With this approach no data leaves your machine. Processing of 18,000 groups take
 
 A sample `.the` file is provided for testing. 
 
-This project represents proof of concept for extending VantagePoint capabilities using LLMs. It is a work in progress and the logic set out in agent.md can clearly be improved.  The project was created using Droid from Factory AI and can be readily used in Droid, Cursor, Claude Code or a similar client. Use of these clients removes the need for detailed programming knowledge. If using a client ask the model to read agents.md first. We also recommend reinforcing the needs to use .venv for requirements in the initial prompt (such as 'read agents.md and use .venv for requirements'). Setup instructions are below.
+This project represents proof of concept for extending VantagePoint capabilities using LLMs. It is a work in progress and the logic set out in agents.md can clearly be improved.  The project was created using Droid from Factory AI and can be readily used in Droid, Cursor, Claude Code or a similar AI client. Use of these clients removes the need for detailed programming knowledge. If using an AI client ask the model to read agents.md first. When using an AI client we also recommend reinforcing the needs to use .venv for requirements in the initial prompt (such as 'read agents.md and use .venv for requirements'). Setup instructions are below.
 
 
 ## Setup
@@ -36,6 +36,9 @@ This project represents proof of concept for extending VantagePoint capabilities
      ```bash
      ollama pull mistral-small
      ```
+
+If you have less than 64Gb RAM use a smaller model. A good approach is to ask an AI client to suggest a model that will fit inside your RAM that is good for the task. You can ask the AI client to suggest a model from the list of Ollama models here: https://ollama.com/search
+
 
 ## Usage
 
